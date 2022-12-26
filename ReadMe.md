@@ -4,6 +4,7 @@ My intention is that this should become a collection of concepts I've encountere
 
 ## Overview
 
+2022/12/25: I've been working my way through tutorials. Classic rabbit hole, but I do think they've improved my coding.
 
 2022/07/21: Initially, this is merely the Swift Playgrounds App template, with a few empty folders added.
 
