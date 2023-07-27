@@ -10,6 +10,7 @@ My intention is that this should become a collection of concepts I've encountere
 
 2022/07/21: Initially, this is merely the Swift Playgrounds App template, with a few empty folders added.
 
+2023/07/27: Since this time last year I've been down a major, unrelated rabbit hole, but now feel free to continue with other things.
 
 ## Topics
 
